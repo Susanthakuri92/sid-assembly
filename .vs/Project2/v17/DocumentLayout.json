@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\susan\\OneDrive\\Desktop\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B27B18-7ACE-454B-9A2C-846769191CF8}|Project2\\Project2.vcxproj|C:\\Users\\susan\\OneDrive\\Desktop\\Project2\\Project2\\SBProject1.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06B27B18-7ACE-454B-9A2C-846769191CF8}|Project2\\Project2.vcxproj|solutionrelative:Project2\\SBProject1.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SBProject1.asm",
+              "DocumentMoniker": "C:\\Users\\susan\\OneDrive\\Desktop\\Project2\\Project2\\SBProject1.asm",
+              "RelativeDocumentMoniker": "Project2\\SBProject1.asm",
+              "ToolTip": "C:\\Users\\susan\\OneDrive\\Desktop\\Project2\\Project2\\SBProject1.asm",
+              "RelativeToolTip": "Project2\\SBProject1.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-11T16:49:38.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
